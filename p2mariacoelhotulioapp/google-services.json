@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458384584199",
+    "firebase_url": "https://tulio-o-curioso---p2.firebaseio.com",
+    "project_id": "tulio-o-curioso---p2",
+    "storage_bucket": "tulio-o-curioso---p2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458384584199:android:31a806e50aa1cd762344a2",
+        "android_client_info": {
+          "package_name": "com.mariacoelho.Tulio.curioso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458384584199-uag3afitu0c80r8ja5amftb1m2j1etgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_O7K_cVbmtsR-oRNNicf9tcD7MVAa88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458384584199-uag3afitu0c80r8ja5amftb1m2j1etgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
